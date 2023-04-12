@@ -418,7 +418,9 @@ Nmap done: 1 IP address (1 host up) scanned in 17.00 seconds
 ![task_1_2.png](img%2Ftask_1_2.png)
 
 https://www.exploit-db.com/exploits/237
+
 https://www.exploit-db.com/exploits/40610
+
 https://www.exploit-db.com/exploits/41974
 
 ---
